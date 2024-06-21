@@ -6,6 +6,7 @@ This repository contains solutions to various coding challenges, primarily focus
 
 - [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 - [122. Best Time to Buy and Sell Stock II](122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)
+- [125. Valid Palindrome](125.%20Valid%20Palindrome.py)
 - [169. Majority Element](169.%20Majority%20Element.py)
 - [189. Rotate Array (JavaScript)](189.%20Rotate%20Array.js)
 - [189. Rotate Array (Python)](189.%20Rotate%20Array.py)
@@ -16,6 +17,7 @@ This repository contains solutions to various coding challenges, primarily focus
 - [6. Zigzag Conversion](6.%20Zigzag%20Conversion.py)
 - [80. Remove Duplicates from Sorted Array II](80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py)
 - [88. Merge Sorted Array](88.%20Merge%20Sorted%20Array.py)
+
 
 ## Usage
 
