@@ -11,6 +11,7 @@ This repository contains solutions to various coding challenges, primarily focus
 - [169. Majority Element](169.%20Majority%20Element.py)
 - [189. Rotate Array (JavaScript)](189.%20Rotate%20Array.js)
 - [189. Rotate Array (Python)](189.%20Rotate%20Array.py)
+- [242. Valid Anagram](242.%20Valid%20Anagram.py)
 - [26. Remove Duplicates from Sorted Array](26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
 - [27. Remove Element](27.%20Remove%20Element.py)
 - [28. Find the Index of the First Occurrence in a String](28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py)
