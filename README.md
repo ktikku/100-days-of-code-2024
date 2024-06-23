@@ -24,6 +24,7 @@ This repository contains solutions to various coding challenges, primarily focus
 - [300. Example Challenge](300.%20Example%20Challenge.py)
 - [290. Word Pattern](290.%20Word%20Pattern.py)
 - [49. Group Anagrams](49.%20Group%20Anagrams.py)
+- [128. Longest Consecutive Sequence](128.%20Longest%20Consecutive%20Sequence.py)
 
 ## Usage
 
