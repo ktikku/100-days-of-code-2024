@@ -20,6 +20,7 @@ This repository contains solutions to various coding challenges, primarily focus
 - [80. Remove Duplicates from Sorted Array II](80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py)
 - [88. Merge Sorted Array](88.%20Merge%20Sorted%20Array.py)
 - [383. Ransom Note](383.%20Ransom%20Note.py)
+- [205. Isomorphic Strings](205.%20Isomorphic%20Strings.py)
 
 ## Usage
 
