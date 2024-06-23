@@ -4,6 +4,7 @@ This repository contains solutions to various coding challenges, primarily focus
 
 ## Challenges
 
+- [1. Two Sum](1.%20Two%20Sum.py)
 - [11. Container With Most Water](11.%20Container%20With%20Most%20Water.py)
 - [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 - [122. Best Time to Buy and Sell Stock II](122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)
@@ -25,7 +26,7 @@ This repository contains solutions to various coding challenges, primarily focus
 - [290. Word Pattern](290.%20Word%20Pattern.py)
 - [49. Group Anagrams](49.%20Group%20Anagrams.py)
 - [128. Longest Consecutive Sequence](128.%20Longest%20Consecutive%20Sequence.py)
-- [1. Two Sum](1.%20Two%20Sum.py)
+- [219. Contains Duplicate II](219.%20Contains%20Duplicate%20II.py)
 
 ## Usage
 
