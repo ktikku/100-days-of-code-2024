@@ -23,6 +23,7 @@ This repository contains solutions to various coding challenges, primarily focus
 - [205. Isomorphic Strings](205.%20Isomorphic%20Strings.py)
 - [300. Example Challenge](300.%20Example%20Challenge.py)
 - [290. Word Pattern](290.%20Word%20Pattern.py)
+- [49. Group Anagrams](49.%20Group%20Anagrams.py)
 
 ## Usage
 
