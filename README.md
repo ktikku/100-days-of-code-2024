@@ -21,6 +21,8 @@ This repository contains solutions to various coding challenges, primarily focus
 - [88. Merge Sorted Array](88.%20Merge%20Sorted%20Array.py)
 - [383. Ransom Note](383.%20Ransom%20Note.py)
 - [205. Isomorphic Strings](205.%20Isomorphic%20Strings.py)
+- [300. Example Challenge](300.%20Example%20Challenge.py)
+- [290. Word Pattern](290.%20Word%20Pattern.py)
 
 ## Usage
 
