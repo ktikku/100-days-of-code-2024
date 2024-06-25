@@ -29,6 +29,7 @@ This repository contains solutions to various coding challenges, primarily focus
 23. [219. Contains Duplicate II](219.%20Contains%20Duplicate%20II.py)
 24. [347. Top K Frequent Elements](347.%20Top%20K%20Frequent%20Elements.py)
 25. [141. Linked List Cycle](141.%20Linked%20List%20Cycle.py)
+26. [392. Is Subsequence](392.%20Is%20Subsequence.py)
 
 ## Usage
 
