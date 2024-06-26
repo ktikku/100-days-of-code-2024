@@ -31,6 +31,7 @@ This repository contains solutions to various coding challenges, primarily focus
 25. [141. Linked List Cycle](141.%20Linked%20List%20Cycle.py)
 26. [392. Is Subsequence](392.%20Is%20Subsequence.py)
 27. [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py)
+28. [20. Valid Parentheses](20.%20Valid%20Parentheses.py)
 
 ## Usage
 
