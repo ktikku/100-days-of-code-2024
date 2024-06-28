@@ -33,6 +33,7 @@ This repository contains solutions to various coding challenges, primarily focus
 27. [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py)
 28. [20. Valid Parentheses](20.%20Valid%20Parentheses.py)
 29. [35. Search Insert Position](35.%20Search%20Insert%20Position.py)
+30. [71. Simplify Path](71.%20Simplify%20Path.py)
 
 ## Usage
 
