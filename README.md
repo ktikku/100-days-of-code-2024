@@ -34,6 +34,7 @@ This repository contains solutions to various coding challenges, primarily focus
 28. [20. Valid Parentheses](20.%20Valid%20Parentheses.py)
 29. [35. Search Insert Position](35.%20Search%20Insert%20Position.py)
 30. [71. Simplify Path](71.%20Simplify%20Path.py)
+31. [150. Evaluate Reverse Polish Notation](150.%20Evaluate%20Reverse%20Polish%20Notation.py)
 
 ## Usage
 
