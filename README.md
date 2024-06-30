@@ -35,6 +35,8 @@ This repository contains solutions to various coding challenges, primarily focus
 29. [35. Search Insert Position](35.%20Search%20Insert%20Position.py)
 30. [71. Simplify Path](71.%20Simplify%20Path.py)
 31. [150. Evaluate Reverse Polish Notation](150.%20Evaluate%20Reverse%20Polish%20Notation.py)
+32. [58. Length of Last Word](58.%20Length%20of%20Last%20Word.py)
+33. [853. Car Fleet](853.%20Car%20Fleet.py)
 
 ## Usage
 
