@@ -39,6 +39,8 @@ This repository contains solutions to various coding challenges, primarily focus
 33. [58. Length of Last Word](58.%20Length%20of%20Last%20Word.py)
 34. [1550. Three Consecutive Odds](1550.%20Three%20Consecutive%20Odds.py)
 35. [13. Roman to Integer](13.%20Roman%20to%20Integer.py)
+36. [1614. Maximum Nesting Depth of the Parentheses](1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)
+
 
 ## Usage
 
