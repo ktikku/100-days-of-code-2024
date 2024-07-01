@@ -38,6 +38,7 @@ This repository contains solutions to various coding challenges, primarily focus
 32. [853. Car Fleet](853.%20Car%20Fleet.py)
 33. [58. Length of Last Word](58.%20Length%20of%20Last%20Word.py)
 34. [1550. Three Consecutive Odds](1550.%20Three%20Consecutive%20Odds.py)
+35. [13. Roman to Integer](13.%20Roman%20to%20Integer.py)
 
 ## Usage
 
