@@ -40,7 +40,7 @@ This repository contains solutions to various coding challenges, primarily focus
 34. [1550. Three Consecutive Odds](1550.%20Three%20Consecutive%20Odds.py)
 35. [13. Roman to Integer](13.%20Roman%20to%20Integer.py)
 36. [1614. Maximum Nesting Depth of the Parentheses](1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)
-
+37. [704. Binary Search](704.%20Binary%20Search.py)
 
 ## Usage
 
