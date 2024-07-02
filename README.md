@@ -42,6 +42,7 @@ This repository contains solutions to various coding challenges, primarily focus
 36. [1614. Maximum Nesting Depth of the Parentheses](1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)
 37. [704. Binary Search](704.%20Binary%20Search.py)
 38. [350. Intersection of Two Arrays II](350.%20Intersection%20of%20Two%20Arrays%20II.py)
+39. [151. Reverse Words in a String](151.%20Reverse%20Words%20in%20a%20String.py)
 
 ## Usage
 
