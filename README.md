@@ -43,6 +43,7 @@ This repository contains solutions to various coding challenges, primarily focus
 37. [704. Binary Search](704.%20Binary%20Search.py)
 38. [350. Intersection of Two Arrays II](350.%20Intersection%20of%20Two%20Arrays%20II.py)
 39. [151. Reverse Words in a String](151.%20Reverse%20Words%20in%20a%20String.py)
+40. [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py)
 
 
 ## Usage
