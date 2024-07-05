@@ -18,3 +18,4 @@ class Solution:
             else:
                 match_map[pattern[i]] = words[i]
         return True
+    
