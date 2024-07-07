@@ -9,4 +9,6 @@ class Solution:
                 count += 1
         nums = nums.sort(reverse = True)
         return count
+
+
         
