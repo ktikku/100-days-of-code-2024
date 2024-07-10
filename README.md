@@ -47,6 +47,7 @@ This repository contains solutions to various coding challenges, primarily focus
 41. [162. Find Peak Element](162.%20Find%20Peak%20Element.py)
 42. [1823. Find the Winner of the Circular Game](1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.py)
 43. [1701. Average Waiting Time](1701.%20Average%20Waiting%20Time.py)
+44. [1598. Crawler Log Folder](1598.%20Crawler%20Log%20Folder.py)
 
 ## Usage
 
