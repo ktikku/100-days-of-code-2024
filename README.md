@@ -48,6 +48,7 @@ This repository contains solutions to various coding challenges, primarily focus
 42. [1823. Find the Winner of the Circular Game](1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.py)
 43. [1701. Average Waiting Time](1701.%20Average%20Waiting%20Time.py)
 44. [1598. Crawler Log Folder](1598.%20Crawler%20Log%20Folder.py)
+45. [1190. Reverse Substrings Between Each Pair of Parentheses](1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)
 
 ## Usage
 
