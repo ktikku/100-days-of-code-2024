@@ -51,6 +51,7 @@ This repository contains solutions to various coding challenges, primarily focus
 45. [1190. Reverse Substrings Between Each Pair of Parentheses](1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)
 46. [1717. Maximum Score From Removing Substrings](1717.%20Maximum%20Score%20From%20Removing%20Substrings.py)
 47. [2751. Robot Collisions](2751.%20Robot%20Collisions.py)
+48. [144. Binary Tree Preorder Traversal](144.%20Binary%20Tree%20Preorder%20Traversal.py)
 
 ## Usage
 
