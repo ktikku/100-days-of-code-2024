@@ -52,6 +52,7 @@ This repository contains solutions to various coding challenges, primarily focus
 46. [1717. Maximum Score From Removing Substrings](1717.%20Maximum%20Score%20From%20Removing%20Substrings.py)
 47. [2751. Robot Collisions](2751.%20Robot%20Collisions.py)
 48. [144. Binary Tree Preorder Traversal](144.%20Binary%20Tree%20Preorder%20Traversal.py)
+49. [222. Count Complete Tree Nodes](222.%20Count%20Complete%20Tree%20Nodes.py)
 
 ## Usage
 
