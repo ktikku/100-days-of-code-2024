@@ -50,6 +50,7 @@ This repository contains solutions to various coding challenges, primarily focus
 44. [1598. Crawler Log Folder](1598.%20Crawler%20Log%20Folder.py)
 45. [1190. Reverse Substrings Between Each Pair of Parentheses](1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)
 46. [1717. Maximum Score From Removing Substrings](1717.%20Maximum%20Score%20From%20Removing%20Substrings.py)
+47. [2751. Robot Collisions](2751.%20Robot%20Collisions.py)
 
 ## Usage
 
