@@ -53,7 +53,7 @@ This repository contains solutions to various coding challenges, primarily focus
 47. [2751. Robot Collisions](2751.%20Robot%20Collisions.py)
 48. [144. Binary Tree Preorder Traversal](144.%20Binary%20Tree%20Preorder%20Traversal.py)
 49. [222. Count Complete Tree Nodes](222.%20Count%20Complete%20Tree%20Nodes.py)
-
+50. [3216. Lexicographically Smallest String After a Swap](3216.%20Lexicographically%20Smallest%20String%20After%20a%20Swap.py)
 ## Usage
 
 Each file contains a solution to the problem stated in its name. The solutions are written in Python (.py files) and JavaScript (.js files).
