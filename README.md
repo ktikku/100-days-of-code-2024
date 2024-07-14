@@ -54,6 +54,9 @@ This repository contains solutions to various coding challenges, primarily focus
 48. [144. Binary Tree Preorder Traversal](144.%20Binary%20Tree%20Preorder%20Traversal.py)
 49. [222. Count Complete Tree Nodes](222.%20Count%20Complete%20Tree%20Nodes.py)
 50. [3216. Lexicographically Smallest String After a Swap](3216.%20Lexicographically%20Smallest%20String%20After%20a%20Swap.py)
+51. [3217. Delete Nodes From Linked List Present in Array](3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.py)51. [3217. Delete Nodes From Linked List Present in Array](3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.py)
+51. [3217. Delete Nodes From Linked List Present in Array](3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.py)
+
 ## Usage
 
 Each file contains a solution to the problem stated in its name. The solutions are written in Python (.py files) and JavaScript (.js files).
