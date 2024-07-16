@@ -58,6 +58,7 @@ This repository contains solutions to various coding challenges, primarily focus
 52. [3217. Delete Nodes From Linked List Present in Array](3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.py)
 53. [3217. Delete Nodes From Linked List Present in Array](3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.py)
 54. [2196. Create Binary Tree From Descriptions](2196.%20Create%20Binary%20Tree%20From%20Descriptions.py)
+55. [938. Range Sum of BST](938.%20Range%20Sum%20of%20BST.py)
 
 ## Usage
 
