@@ -59,6 +59,7 @@ This repository contains solutions to various coding challenges, primarily focus
 53. [3217. Delete Nodes From Linked List Present in Array](3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.py)
 54. [2196. Create Binary Tree From Descriptions](2196.%20Create%20Binary%20Tree%20From%20Descriptions.py)
 55. [938. Range Sum of BST](938.%20Range%20Sum%20of%20BST.py)
+56. [3190. Find Minimum Operations to Make All Elements Divisible by Three](3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.py)
 
 ## Usage
 
