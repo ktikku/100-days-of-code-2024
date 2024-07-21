@@ -63,6 +63,7 @@ This repository contains solutions to various coding challenges, primarily focus
 57. [2236. Root Equals Sum of Children](2236.%20Root%20Equals%20Sum%20of%20Children.py)
 58. [1380. Lucky Numbers in a Matrix](1380.%20Lucky%20Numbers%20in%20a%20Matrix.py)
 59. [12. Integer to Roman](12.%20Integer%20to%20Roman.py)
+60. [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
 
 ## Usage
 
