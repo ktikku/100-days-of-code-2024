@@ -1,4 +1,10 @@
-from typing import List
+# Time Complexity: O(nlogn)
+# Space Complexity: O(n)
+# Approach: Create a mapping of the digits and sort the numbers based on the transformed number.
+#           For each number, transform the number to the new number using the mapping.
+#           Sort the numbers based on the transformed number.
+#           Return the original numbers in the sorted order.
+
 
 class Solution:
     def sortJumbled(self, mapping: List[int], nums: List[int]) -> List[int]:
