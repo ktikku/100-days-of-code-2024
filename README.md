@@ -68,6 +68,7 @@ This repository contains solutions to various coding challenges, primarily focus
 62. [1636. Sort Array by Increasing Frequency](1636.%20Sort%20Array%20by%20Increasing%20Frequency.py)
 63. [238. Product of Array Except Self](238.%20Product%20of%20Array%20Except%20Self.py)
 64. [2191. Sort the Jumbled Numbers](2191.%20Sort%20the%20Jumbled%20Numbers.py)
+65. [912. Sort an Array](912.%20Sort%20an%20Array.py)
 ## Usage
 
 Each file contains a solution to the problem stated in its name. The solutions are written in Python (.py files) and JavaScript (.js files).
