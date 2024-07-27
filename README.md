@@ -70,6 +70,7 @@ This repository contains solutions to various coding challenges, primarily focus
 64. [2191. Sort the Jumbled Numbers](2191.%20Sort%20the%20Jumbled%20Numbers.py)
 65. [912. Sort an Array](912.%20Sort%20an%20Array.py)
 66. [1679. Max Number of K-Sum Pairs](1679.%20Max%20Number%20of%20K-Sum%20Pairs.py)
+67. [271. Encode and Decode Strings](271.%20Encode%20and%20Decode%20Strings.py)
 
 ## Usage
 
