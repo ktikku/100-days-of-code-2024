@@ -20,6 +20,8 @@ class Solution:
             if i > 0:
                 if nums[i] == nums[i - 1]:
                     continue
+            if nums[i] > 0:
+                break
             l = i + 1
             r = len(nums) - 1
             while l < r:
@@ -34,4 +36,5 @@ class Solution:
                     while nums[l] == nums[l - 1] and l < r:
                         l += 1
         return res
+            
             
