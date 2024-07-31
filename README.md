@@ -74,6 +74,7 @@ This repository contains solutions to various coding challenges, primarily focus
 68. [36. Valid Sudoku](36.%20Valid%20Sudoku.py)
 69. [15. 3Sum](15.%203Sum.py)
 70. [739. Daily Temperatures](739.%20Daily%20Temperatures.py)
+71. [104. Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
 
 ## Usage
 
