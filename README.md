@@ -75,6 +75,7 @@ This repository contains solutions to various coding challenges, primarily focus
 69. [15. 3Sum](15.%203Sum.py)
 70. [739. Daily Temperatures](739.%20Daily%20Temperatures.py)
 71. [104. Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
+72. [2678. Number of Senior Citizens](2678.%20Number%20of%20Senior%20Citizens.py)
 
 ## Usage
 
