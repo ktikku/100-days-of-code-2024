@@ -76,6 +76,7 @@ This repository contains solutions to various coding challenges, primarily focus
 70. [739. Daily Temperatures](739.%20Daily%20Temperatures.py)
 71. [104. Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
 72. [2678. Number of Senior Citizens](2678.%20Number%20of%20Senior%20Citizens.py)
+75. [1508. Range Sum of Sorted Subarray Sums](1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.py)
 
 ## Usage
 
