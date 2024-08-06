@@ -78,6 +78,7 @@ This repository contains solutions to various coding challenges, primarily focus
 72. [2678. Number of Senior Citizens](2678.%20Number%20of%20Senior%20Citizens.py)
 75. [1508. Range Sum of Sorted Subarray Sums](1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.py)
 76. [2053. Kth Distinct String in an Array](2053.%20Kth%20Distinct%20String%20in%20an%20Array.py)
+77. [3016. Minimum Number of Pushes to Type Word II](3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.py)
 
 ## Usage
 
