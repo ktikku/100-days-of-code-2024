@@ -81,6 +81,7 @@ This repository contains solutions to various coding challenges, primarily focus
 77. [3016. Minimum Number of Pushes to Type Word II](3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.py)
 78. [273. Integer to English Words](273.%20Integer%20to%20English%20Words.py)
 79. [885. Spiral Matrix III](885.%20Spiral%20Matrix%20III.py)
+80. [840. Magic Squares In Grid](840.%20Magic%20Squares%20In%20Grid.py)
 
 ## Usage
 
