@@ -82,6 +82,7 @@ This repository contains solutions to various coding challenges, primarily focus
 78. [273. Integer to English Words](273.%20Integer%20to%20English%20Words.py)
 79. [885. Spiral Matrix III](885.%20Spiral%20Matrix%20III.py)
 80. [840. Magic Squares In Grid](840.%20Magic%20Squares%20In%20Grid.py)
+81. [959. Regions Cut By Slashes](959.%20Regions%20Cut%20By%20Slashes.py)
 
 ## Usage
 
