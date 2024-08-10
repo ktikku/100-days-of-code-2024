@@ -83,6 +83,7 @@ This repository contains solutions to various coding challenges, primarily focus
 79. [885. Spiral Matrix III](885.%20Spiral%20Matrix%20III.py)
 80. [840. Magic Squares In Grid](840.%20Magic%20Squares%20In%20Grid.py)
 81. [959. Regions Cut By Slashes](959.%20Regions%20Cut%20By%20Slashes.py)
+82. [200. Number of Islands](200.%20Number%20of%20Islands.py)
 
 ## Usage
 
