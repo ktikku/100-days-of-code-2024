@@ -84,6 +84,7 @@ This repository contains solutions to various coding challenges, primarily focus
 80. [840. Magic Squares In Grid](840.%20Magic%20Squares%20In%20Grid.py)
 81. [959. Regions Cut By Slashes](959.%20Regions%20Cut%20By%20Slashes.py)
 82. [200. Number of Islands](200.%20Number%20of%20Islands.py)
+83. [3248. Snake in Matrix](3248.%20Snake%20in%20Matrix.py)
 
 ## Usage
 
