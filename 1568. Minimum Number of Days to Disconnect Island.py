@@ -1,7 +1,6 @@
 class Solution(object):
     def minDays(self, grid):
         def countIslands():
-            # Count the number of islands in the grid using DFS
             visited = [[False] * n for _ in range(m)]
             islands = 0
             directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
