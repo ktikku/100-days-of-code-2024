@@ -87,6 +87,7 @@ This repository contains solutions to various coding challenges, primarily focus
 83. [3248. Snake in Matrix](3248.%20Snake%20in%20Matrix.py)
 84. [1568. Minimum Number of Days to Disconnect Island](1568.%20Minimum%20Number%20of%20Days%20to%20Disconnect%20Island.py)
 85. [703. Kth Largest Element in a Stream](703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)
+86. [40. Combination Sum II](40.%20Combination%20Sum%20II.py)
 
 ## Usage
 
