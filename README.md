@@ -88,6 +88,7 @@ This repository contains solutions to various coding challenges, primarily focus
 84. [1568. Minimum Number of Days to Disconnect Island](1568.%20Minimum%20Number%20of%20Days%20to%20Disconnect%20Island.py)
 85. [703. Kth Largest Element in a Stream](703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)
 86. [40. Combination Sum II](40.%20Combination%20Sum%20II.py)
+87. [719. Find K-th Smallest Pair Distance](719.%20Find%20K-th%20Smallest%20Pair%20Distance.py)
 
 ## Usage
 
