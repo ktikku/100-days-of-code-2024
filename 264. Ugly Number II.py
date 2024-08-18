@@ -3,7 +3,6 @@ class Solution:
         min_heap = [1]
         visit = set()
         factors = [2, 3, 5]
-
         for i in range(n):
             num = heapq.heappop(min_heap)
             if i == n - 1:
