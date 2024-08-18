@@ -89,6 +89,7 @@ This repository contains solutions to various coding challenges, primarily focus
 85. [703. Kth Largest Element in a Stream](703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)
 86. [40. Combination Sum II](40.%20Combination%20Sum%20II.py)
 87. [719. Find K-th Smallest Pair Distance](719.%20Find%20K-th%20Smallest%20Pair%20Distance.py)
+88. [264. Ugly Number II](264.%20Ugly%20Number%20II.py)
 
 ## Usage
 
