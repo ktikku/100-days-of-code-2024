@@ -90,6 +90,7 @@ This repository contains solutions to various coding challenges, primarily focus
 86. [40. Combination Sum II](40.%20Combination%20Sum%20II.py)
 87. [719. Find K-th Smallest Pair Distance](719.%20Find%20K-th%20Smallest%20Pair%20Distance.py)
 88. [264. Ugly Number II](264.%20Ugly%20Number%20II.py)
+89. [875. Koko Eating Bananas](875.%20Koko%20Eating%20Bananas.py)
 
 ## Usage
 
