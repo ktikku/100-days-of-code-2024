@@ -91,6 +91,7 @@ This repository contains solutions to various coding challenges, primarily focus
 87. [719. Find K-th Smallest Pair Distance](719.%20Find%20K-th%20Smallest%20Pair%20Distance.py)
 88. [264. Ugly Number II](264.%20Ugly%20Number%20II.py)
 89. [875. Koko Eating Bananas](875.%20Koko%20Eating%20Bananas.py)
+90. [153. Find Minimum in Rotated Sorted Array](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)
 
 ## Usage
 
