@@ -96,6 +96,7 @@ This repository contains solutions to various coding challenges, primarily focus
 92. [74. Search a 2D Matrix](74.%20Search%20a%202D%20Matrix.py)
 93. [476. Number Complement](476.%20Number%20Complement.py)
 94. [981. Time Based Key-Value Store](981.%20Time%20Based%20Key-Value%20Store.py)
+95. [590. N-ary Tree Postorder Traversal](590.%20N-ary%20Tree%20Postorder%20Traversal.py)
 
 ## Usage
 
