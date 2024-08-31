@@ -98,6 +98,7 @@ This repository contains solutions to various coding challenges, primarily focus
 94. [981. Time Based Key-Value Store](981.%20Time%20Based%20Key-Value%20Store.py)
 95. [590. N-ary Tree Postorder Traversal](590.%20N-ary%20Tree%20Postorder%20Traversal.py)
 96. [567. Permutation in String](567.%20Permutation%20in%20String.py)
+97. [424. Longest Repeating Character Replacement](424.%20Longest%20Repeating%20Character%20Replacement.py)
 
 ## Usage
 
